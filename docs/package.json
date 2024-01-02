@@ -1,0 +1,19 @@
+{
+  "name": "Interface development",
+  "version": "0.0.1",
+  "description": "My landing page",
+  "main": "index.js",
+  "authors": {
+    "name": "Marni Heijnis",
+    "email": ""
+  },
+  "repository": "/Interface development",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
